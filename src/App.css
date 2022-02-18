@@ -1,0 +1,168 @@
+.HEAVEN {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	background-color: rgb(0, 0, 0);
+	padding: 20px;
+	cursor: pointer;
+}
+
+.recipe-card {
+	width: 22%;
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+	background-color: #efeded;
+	padding: 10px;
+	position: relative;
+	border-radius: 4px;
+	box-shadow: 2rem 3rem 5rem rgb(170, 170, 170);
+}
+
+.recipes-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.recipe-card-link {
+	border: 2px solid black;
+	border-radius: 6px;
+	padding: 7px;
+	justify-content: center;
+	display: flex;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 6px;
+	color: black;
+}
+
+.name {
+	text-align: center;
+}
+
+.info {
+	font-size: 18px;
+	font-weight: initial;
+	margin: 10;
+}
+
+.name {
+	text-align: center;
+	font-weight: lighter;
+	font-family: Georgia, serif;
+	font-size: 25px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: 400;
+	text-decoration: underline solid rgb(0, 0, 0);
+	font-style: italic;
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+
+.title {
+	margin: 15px;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.learn {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.first {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.second {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.Paleo {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.PaleoInfo {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.blood {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.bloodInfo {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.vegan {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.veganInfo {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.south {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.southInfo {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.med {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.medInfo {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.raw {
+	margin: 12px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.rawInfo {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.pic {
+	margin: 20px;
+}
+
+.picGuy {
+	margin: 20px;
+}
